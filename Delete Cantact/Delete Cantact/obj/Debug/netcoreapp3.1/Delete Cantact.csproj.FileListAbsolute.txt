@@ -1,0 +1,5 @@
+C:\Users\dell\Lectures\Delete Person Details\Delete Cantact\Delete Cantact\obj\Debug\netcoreapp3.1\Delete Cantact.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\Delete Person Details\Delete Cantact\Delete Cantact\obj\Debug\netcoreapp3.1\Delete Cantact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\Delete Person Details\Delete Cantact\Delete Cantact\obj\Debug\netcoreapp3.1\Delete Cantact.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\Delete Person Details\Delete Cantact\Delete Cantact\obj\Debug\netcoreapp3.1\Delete Cantact.AssemblyInfo.cs
+C:\Users\dell\Lectures\Delete Person Details\Delete Cantact\Delete Cantact\obj\Debug\netcoreapp3.1\Delete Cantact.csproj.CoreCompileInputs.cache
